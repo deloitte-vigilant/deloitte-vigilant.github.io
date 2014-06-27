@@ -1,9 +1,3 @@
-# Site settings
-title: A newish blog
-email: your-email@domain.com
-baseurl: ""
-url: "http://yourdomain.com"
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+name: Flex
+markdown: redcarpet
+pygments: true
