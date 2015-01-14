@@ -7,10 +7,10 @@ $( document ).ready(function() {
 	var scontacts = $('#contact-list-secondary');
 	var contact_list = $('#contact-list');
 	
-	scontacts.hide();
+	//scontacts.hide();
 	
-	contact_list.mouseenter(function(){ scontacts.fadeIn(); });
+	//contact_list.mouseenter(function(){ scontacts.fadeIn(); });
 	
-	contact_list.mouseleave(function(){ scontacts.fadeOut(); });
+	//contact_list.mouseleave(function(){ scontacts.fadeOut(); });
 
 });
